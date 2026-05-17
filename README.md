@@ -264,6 +264,3 @@ This repository includes:
 This project is developed for academic and learning purposes.
 
 ---
-machine-learning
-medical-data-analysis
-```
